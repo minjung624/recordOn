@@ -1,7 +1,7 @@
 <img width="725" height="212" alt="image" src="https://github.com/user-attachments/assets/6bc4fedc-25da-4a29-99b9-312b7db7581f" />
 
 ## :bookmark_tabs: 소개
-RecordOn은 사용자의 일상을 효율적으로 기록하고 공유할 수 있는 라이프스타일 기반의 모바일 웹앱입니다.
+RecordOn은 사용자의 일상을 효율적으로 기록하고 공유할 수 있는 라이프스타일 기반의 모바일 웹앱입니다. <br>
 투두리스트, 캘린더 일정 관리, 실시간 채팅, 즐겨찾기 지도 공유등 기능을 통해 개인 일정관리와 커뮤니티 소통을 동시에 지원합니다.
 
 ## :key: 전체 기능
